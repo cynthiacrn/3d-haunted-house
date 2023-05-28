@@ -1,6 +1,9 @@
-# Three.js Journey
+# Three.js Journey: exercice 17
+## Haunted house
 
-## Setup
+[Discover th project :v:](https://3d-haunted-house-cynthia-caron.vercel.app/)
+
+### Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
